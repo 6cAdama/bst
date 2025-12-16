@@ -1,0 +1,16 @@
+{
+  "name": "GestClasse Senegal",
+  "short_name": "GestClasse",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#e5e7eb",
+  "theme_color": "#1F2937",
+  "orientation": "landscape",
+  "icons": [
+    {
+      "src": "/vite.svg",
+      "type": "image/svg+xml",
+      "sizes": "512x512"
+    }
+  ]
+}
